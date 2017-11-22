@@ -1,3 +1,0 @@
-# NeuralNet
-
-## Neural Net codes
